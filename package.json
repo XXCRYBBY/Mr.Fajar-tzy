@@ -1,5 +1,5 @@
 {
-  "name": "Mr Fajar",
+  "name": "fajar-tzy",
   "version": "2.0.0",
   "description": "bitch-boot",
   "main": "node index",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "Mr Fajar",
+  "author": "fajar",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
